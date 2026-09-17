@@ -5,6 +5,8 @@
 // @description  Triggers download in an inactive background tab and closes it automatically
 // @match        https://menu.eu.aftx.amazonoperations.app/*
 // @match        https://stowmap.eu.aftx.amazonoperations.app/stowmap/loadFCAreaMap.htm*
+// @updateURL    https://raw.githubusercontent.com/RBCeva/TamperMonkey/main/StowMap
+// @downloadURL  https://raw.githubusercontent.com/RBCeva/TamperMonkey/main/StowMap
 // @grant        GM_openInTab
 // ==/UserScript==
 
