@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Amazon Operations Silent Stowmap Downloader
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      3.0
 // @description  Triggers download in an inactive background tab and closes it automatically
 // @match        https://menu.eu.aftx.amazonoperations.app/*
 // @match        https://stowmap.eu.aftx.amazonoperations.app/stowmap/loadFCAreaMap.htm*
